@@ -71,3 +71,6 @@ Thumbs.db
 
 # Output files (generated content)
 output/
+
+# Docker
+.dockerignore
