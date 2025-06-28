@@ -106,7 +106,3 @@ EchoFrame is a complete multi-modal storytelling pipeline, showing the power of 
 - Natural Speech Output  
 
 ---
-
-## 📄 License
-
-MIT License © 2025 Sri Madhavan
